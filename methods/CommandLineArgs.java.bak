@@ -1,0 +1,14 @@
+class CommandLineArgs 
+{
+	public static void main(String[] args) 
+	{
+		for(int n:String)
+		{
+			Scanner sc=new Scanner(System.in);
+		}
+		for(int n:String)
+		{
+			System.out.println(n);
+		}
+	}
+}
